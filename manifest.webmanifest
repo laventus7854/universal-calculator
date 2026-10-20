@@ -1,0 +1,19 @@
+{
+  "name": "Калькулятор всего",
+  "short_name": "Калькулятор",
+  "description": "Научный калькулятор, проценты, кредиты, вклады, единицы измерения, здоровье и даты — в одном приложении.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#070b16",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
