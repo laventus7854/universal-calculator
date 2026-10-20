@@ -4,6 +4,8 @@
 
 **Демо:** [laventus7854.github.io/universal-calculator](https://laventus7854.github.io/universal-calculator/)
 
+![Превью «Калькулятора всего»](docs/preview.jpg)
+
 ## Что внутри
 
 - **Научный калькулятор** — выражения с `sin`, `cos`, `tan`, `ln`, `log`, `√`, `^`, `!`, `π`, `e`, режимы DEG/RAD, живой предпросмотр и история вычислений.
